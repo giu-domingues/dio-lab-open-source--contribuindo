@@ -1,5 +1,6 @@
 # Badges
-
+<p>As badges são pequenos ícones gráficos que você pode adicionar ao seu perfil ou repositório do GitHub. Elas servem para exibir de forma visualmente atraente informações importantes sobre o projeto, como o status de build, a cobertura de testes, a versão, o número de downloads, entre outros.</p>
+</n>
 <table>
   <tr>
     <td>
@@ -946,3 +947,4 @@
   </tbody>
   <tfoot></tfoot>
 </table>
+
