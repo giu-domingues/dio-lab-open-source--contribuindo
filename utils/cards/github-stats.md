@@ -1,5 +1,5 @@
 # GitHub Stats
-
+<p>Os Cards são elementos visuais que você pode adicionar ao seu perfil ou README de um repositório no GitHub. No contexto do GitHub, "Cards" geralmente se referem a cartões de perfil, cartões de estatísticas de repositório, ou cartões que mostram a atividade recente</p>
 <table>
   <tr>
     <td>
@@ -60,4 +60,5 @@
 
 ```
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+
 ```
